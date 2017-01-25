@@ -67,6 +67,13 @@ The following properties can be configured:
 			</td>
 		</tr>
 		<tr>
+			<td><code>showDate</code></td>
+			<td>Turn off or on the Date section.<br>
+				<br><b>Possible values:</b> <code>true</code> or <code>false</code>
+				<br><b>Default value:</b> <code>true</code>
+			</td>
+		</tr>
+		<tr>
 			<td><code>displayType</code></td>
 			<td>Display a digital clock, analog clock, or both together.<br>
 				<br><b>Possible values:</b> <code>digital</code>, <code>analog</code>, or <code>both</code>
@@ -108,5 +115,13 @@ The following properties can be configured:
 				<br><b>Default value:</b> <code>top</code>
 			</td>
 		</tr>
+		<tr>
+			<td><code>timezone</code></td>
+			<td>Specific a timezone to show clock.<br>
+				<br><b>Possible examples values:</b> <code>America/New_York</code>, <code>America/Santiago</code>, <code>Etc/GMT+10</code>
+				<br><b>Default value:</b> <code>none</code>
+			</td>
+		</tr>
+
 	</tbody>
 </table>
