@@ -13,19 +13,19 @@ Module.register("compliments",{
 	defaults: {
 		compliments: {
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
-				"How was your sleep?"
+				"Goedemorgen, slaapkop!",
+				"Fijne dag vandaag!",
+				"Lekker geslapen?"
 			],
 			afternoon: [
 				"Hello, beauty!",
 				"You look sexy!",
-				"Looking good today!"
+				"Je ziet er goed uit vandaag!"
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"Hopelijk lekker even buiten zitten!",
+				"Jij ziet er goed uit!",
+				"Welterusten (voor straks)!"
 			]
 		},
 		updateInterval: 30000,
