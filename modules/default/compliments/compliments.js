@@ -18,8 +18,8 @@ Module.register("compliments",{
 				"Lekker geslapen?"
 			],
 			afternoon: [
-				"Hello, beauty!",
-				"You look sexy!",
+				"Goedemiddag!",
+				"Wat gaan we doen deze middag?",
 				"Je ziet er goed uit vandaag!"
 			],
 			evening: [
